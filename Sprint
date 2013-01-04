@@ -1,0 +1,28 @@
+Sprint
+Idea by: Sean Zellmer @lejeunerenard
+
+Summary:
+A mobile web app that uses geolocation to coordinate a sprinting competition between two or more users.
+
+Proposed Features:
+ - Syncronized start
+ - Syncronized destination ( selected via touching a map, entering a location name or address )
+ - Individual time calculations (for accuracy)
+ - Badges ?
+ - Social integration
+ - QR Code sharing
+ - Initially Anonymous users
+ - Cheering via social media
+ - Live progress map
+ - Rules ( < 50 mph )
+ - Time trials
+ - Fun
+
+Description:
+Haven't you ever challenged your friends to see who could get to the bar first? But everyone claimed they got there first?
+Well now you can have the perfect imparital judge, the internet.
+With Sprint you can easily create and send a challendge to your friends via social media, texting or QR codes.
+Just sitting in the car while your friend drives durring a race? Follow allong with a live updating map or Cheer your driver on with via social media.
+Don't want people doing illegal things? Set rules like maximum miles per hour.
+Even if you're not hanging out with your friends, you can race them with a time trial. Who can get from point A to point B the fastest.
+And best of all, its Free and works on any mobile device with geolocation! Get started today by visiting imfasterthanyourmom.com
