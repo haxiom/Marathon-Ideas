@@ -1,0 +1,27 @@
+Automated Roller Shades for Rez Sanctuary (not terribly creative, sorry!) 
+Idea by: Devon @gryphon12186
+
+Summary:
+Create affordable and reliable roller shades for Rez before the summer sets in and bakes the congregation. 
+
+Proposed Features:
+ - Shades would be attached to a small motor which would smoothly lower on command (web app? button? both?) 
+ - Fabric would ideally not be completely opaque, but would take edge off of bright light
+
+
+Skills/Materials/Tools Needed for Project: 
+ - Materials for shades themselves: tube motor, fabric, power source, etc. 
+ - Raspberry Pi?
+ - Programming/design for app to control shades
+
+Description:
+I was talking with Trevor this morning and mentioned that they would definitely need shades this summer since the sun streams into the sanctuary. He said that the church had priced it out, and the estimate for the installation and materials cost around $30,000, making it out of the question at this time. 
+I thought Haxiom might be able to come up with a more affordable solution. 
+The first step would be to come up with a workable idea and price it out. If we could do it for $1000 or less, I think it would be worth pitching to Trevor. I also think that this would be a really fun project that would incorporate a lot of skills we already have and we would be able to enjoy the practical fruits of our labor if we ever happen to be in the sanctuary on a sunny day. 
+
+This was a basic diagram of what I was thinking, except replace the remote control with a mobile device: http://rollertrol.com/images/illustrations/motorized-window-blind-remote-control-700x475.jpg
+However, I am completely open to wildly different ideas, should anyone have them. 
+
+
+Cons:
+ - It would be a longer term project, and if project wasn't successful (i.e. shades not working, etc.) the stakes are higher because others are depending/invested in the outcome. Also: don't want to be responsible for long-term maintanence.  
