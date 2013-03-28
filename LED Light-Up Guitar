@@ -1,0 +1,10 @@
+I once saw a rock concert where the drummer had a drum set made out of a transparent material. There were lights
+attached to the drumms that would light up and shine through the set. It looked pretty cool. 
+
+After seeing the design of a transparent electric guitar made out of lucite, I thought it might look pretty sweet to apply the same idea from the drum set I saw to the lucite guitar. 
+
+Colored LED lights would be attached to the front of the guitar. Then different lights would be activated in various
+patterns depending on what note was played a which octave, and at the same rate as the notes were played. The power
+supply to the lights would be separate from the mechanism that actually switched them on and off. I was thinking that that mechanism would be a Raspberry Pi. 
+
+I have an electric guitar I can donate to the cause, and I can buy LEDs and a Raspberry Pi. This project requires ample dedication to hardware as much as softeware. It may be that programming the lights will be simple, but translating the signal from a guitar string to the pickup to the computer may prove the difficult part.
