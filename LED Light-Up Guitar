@@ -1,6 +1,15 @@
 LED Light-Up Guitar
-Idea submitted by: Kyle @tobiasyoda
+Idea by: Kyle @tobiasyoda
 
+Summary: 
+An electric guitar that has LED lights on the front of the body that light up according to which notes and rhythms are played on the guitar.
+
+Skills needed:
+-Electric wiring
+-Programming: computer-activated lighting
+-Signal translation
+
+Description:
 I once saw a rock concert where the drummer had a drum set made out of a transparent material. There were lights
 attached to the drumms that would light up and shine through the set. It looked pretty cool. 
 
@@ -10,4 +19,7 @@ Colored LED lights would be attached to the front of the guitar. Then different 
 patterns depending on what note was played a which octave, and at the same rate as the notes were played. The power
 supply to the lights would be separate from the mechanism that actually switched them on and off. I was thinking that that mechanism would be a Raspberry Pi. 
 
-I have an electric guitar I can donate to the cause, and I can buy LEDs and a Raspberry Pi. This project requires ample dedication to hardware as much as softeware. It may be that programming the lights will be simple, but translating the signal from a guitar string to the pickup to the computer may prove the difficult part.
+I have an electric guitar I can donate to the cause, and I can buy LEDs and a Raspberry Pi. 
+
+Cons: 
+This project requires ample dedication to hardware as much as softeware. It may be that programming the lights will be simple, but translating the sonic signal from a guitar string to the pickup (electric) to the computer may prove the difficult part. Basically translating from sound wave to electric signal into a computer may be the hardest part.
