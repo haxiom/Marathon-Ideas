@@ -1,13 +1,15 @@
 LED Light-Up Guitar
 Idea by: Kyle @tobiasyoda
 
-Summary: 
+Summary/Features: 
 An electric guitar that has LED lights on the front of the body that light up according to which notes and rhythms are played on the guitar.
 
-Skills needed:
+Skills/Materials/Tools needed:
 -Electric wiring
 -Programming: computer-activated lighting
 -Signal translation
+-Electric guitar
+-Raspberry Pi
 
 Description:
 I once saw a rock concert where the drummer had a drum set made out of a transparent material. There were lights
